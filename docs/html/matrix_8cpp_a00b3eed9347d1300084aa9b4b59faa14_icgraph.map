@@ -1,0 +1,16 @@
+<map id="create_matrix" name="create_matrix">
+<area shape="rect" id="Node000001" title="Создание новой матрицы с заданными размерами." alt="" coords="299,84,411,111"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,58,60,86"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,73,293,46,250,23,211,12,179,8,148,12,109,23,76,39,50,60,46,56,73,35,107,18,147,7,179,3,212,6,252,18,296,41,333,73"/>
+<area shape="rect" id="Node000003" href="$matrix_8cpp.html#a22ddff2afbafb442af6b304fc45da953" title="Сложение двух матриц одинакового размера." alt="" coords="132,32,227,59"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="289,79,227,62,227,57,294,78"/>
+<area shape="rect" id="Node000004" href="$matrix_8cpp.html#a513e92c455e7236d25c091c7430e964b" title="Создание глубокой (независимой) копии матрицы." alt="" coords="128,84,230,111"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="281,98,231,100,230,95,286,97"/>
+<area shape="rect" id="Node000005" href="$matrix_8cpp.html#ab25adc6286a85175b01f1545f3e8fbd4" title="Создание матрицы из одномерного массива чисел." alt="" coords="108,136,251,163"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="289,117,229,138,228,133,294,116"/>
+<area shape="rect" id="Node000006" href="$matrix_8cpp.html#acb87434bec1e8f89c319be6fd81a131d" title="Умножение двух матриц." alt="" coords="117,188,242,215"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="329,120,293,151,252,177,225,190,224,184,250,173,290,147,324,123"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="115,59,61,70,59,65,118,55"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="111,88,61,79,60,74,115,84"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="113,180,106,177,83,156,64,131,40,89,41,84,69,128,87,152,109,173,118,181"/>
+</map>
